@@ -4,9 +4,9 @@ Youtube Link : https://youtube.com/shorts/LKYkMSDrn78?feature=share
 Documentation:
 installed React Native Expo
 
+# redux
 install redux toolkit
 Toolkit has all the packages needed for redux
-# NPM
 npm install @reduxjs/toolkit react-redux
 
 redux store:-
@@ -25,11 +25,11 @@ install : npm install react-native-elements
 install : npm install react-native-vector-icons
 install : npm install react-native-safe-area-context
 
-install react native navigation
+# react native navigation
 install: npm install @react-navigation/native
 install: npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler
 
-install google places auto complete
+# google places auto complete
 npm install react-native-google-places-autocomplete --save
 
 npm install react-native-dotenv
